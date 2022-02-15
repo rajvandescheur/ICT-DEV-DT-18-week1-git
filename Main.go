@@ -12,7 +12,6 @@ func main() {
 	}
 
 	fmt.Println()
-	dsfghjkljkhgfdsaDFGHJKL
 	// geeft alle oneven getallen weer tot 100
 
 	for i := 1; i <= 100; i += 2 {
