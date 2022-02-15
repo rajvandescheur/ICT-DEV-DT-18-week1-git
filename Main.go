@@ -15,5 +15,9 @@ func main() {
 
 	// geeft alle oneven getallen weer tot 100
 
+	for i := 1; i <= 100; i += 2 {
+		fmt.Printf("%v, ", i)
+	}
+
 	// todo: implementeer functie die alle oneven getallen naar de std output print
 }
